@@ -1,2 +1,2 @@
 # Number Guesser
-Try your luck wwith this number guesser.
+Try your luck with this number guesser.
